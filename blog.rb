@@ -40,8 +40,7 @@ class BlogPost < Blog
 	end
 	
 	attr_accessor :title, :content, :author, :date
-	
-	
+		
 end
 
 puts "Do you want to write a blog post [Y/N]?"
